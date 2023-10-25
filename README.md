@@ -1,9 +1,5 @@
 
 
-![software-testing](https://github.com/sokolrrustemi/sokolrrustemi/assets/142696425/31c8959f-62b2-4501-b794-b53d56caa11e)
-
-
-
 
 <h1 center="right"> SOKOL RRUSTEMI ⚡</h1> 
 <h3 center="right"> Software Development Engineer in Test ⚡</h3> 
@@ -17,7 +13,7 @@
 ---
 ---
 ### 🏆 GitHub Trophies
- ![](https://github-profile-trophy.vercel.app/?username=TechnoTeam-17&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+ ![](https://github-profile-trophy.vercel.app/?username=sokolrrustemi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
  ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
