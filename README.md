@@ -85,7 +85,8 @@ Passionate about software, test automation, and the advancing world of technolog
 
 </br>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sokolrrustemi.sokolrrustemi)
+[![](https://visitor-badge.laobi.icu/badge?page_id=sokolrrustemi)](#)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 </p>
 
 
