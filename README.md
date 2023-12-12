@@ -74,6 +74,7 @@ Passionate about software, test automation, and the advancing world of technolog
   <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">Selenium</a><br>
   <a href="https://testng.org/doc/" target="_blank" rel="noopener noreferrer">TestNG</a><br>
   <a href="https://cucumber.io/" target="_blank" rel="noopener noreferrer">Cucumber</a><br>
+  <a href="https://appium.io/" target="_blank" rel="noopener noreferrer">Appium</a><br>
   <a href="https://dzone.com/" target="_blank" rel="noopener noreferrer">DZone</a><br>
   <a href="https://www.dev.to/" target="_blank" rel="noopener noreferrer">DEV.to</a><br>
   <a href="https://www.baeldung.com/" target="_blank" rel="noopener noreferrer">Baeldung</a><br>
